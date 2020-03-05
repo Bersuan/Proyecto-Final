@@ -1,0 +1,530 @@
+,equipo,nombre,salarios
+0,atlanta-hawks,Evan Turner,18.606.557 $
+1,atlanta-hawks,Jabari Parker,6.500.000 $
+2,atlanta-hawks,Chandler Parsons,25.102.511 $
+3,atlanta-hawks,Cameron Reddish,4.245.720 $
+4,atlanta-hawks,Damian Jones,2.305.057 $
+5,atlanta-hawks,Kevin Huerter,2.636.280 $
+6,atlanta-hawks,Allen Crabbe,18.500.000 $
+7,atlanta-hawks,John Collins,2.686.560 $
+8,atlanta-hawks,DeAndre' Bembry,2.603.982 $
+9,atlanta-hawks,Trae Young,6.273.120 $
+10,atlanta-hawks,De'Andre Hunter,7.068.360 $
+11,atlanta-hawks,Alex Len,4.353.659 $
+12,atlanta-hawks,Bruno Fernando,1.566.666 $
+13,atlanta-hawks,Ray Spalding,1.445.697 $
+14,atlanta-hawks,Vince Carter,1.620.564 $
+15,atlanta-hawks,Marcus Derrickson,1.445.697 $
+16,atlanta-hawks,Armoni Brooks,898.310 $
+17,atlanta-hawks,Brandon Goodwin,Ambivalente
+18,boston-celtics,Gordon Hayward,32.700.690 $
+19,boston-celtics,Kemba Walker,32.742.000 $
+20,boston-celtics,Daniel Theis,4.878.049 $
+21,boston-celtics,Jayson Tatum,7.830.000 $
+22,boston-celtics,Robert Williams,1.937.520 $
+23,boston-celtics,Brad Wanamaker,1.445.697 $
+24,boston-celtics,Jaylen Brown,6.534.829 $
+25,boston-celtics,Marcus Smart,12.553.471 $
+26,boston-celtics,Vincent Poirier,898.310 $
+27,boston-celtics,Tacko Fall,898.310 $
+28,boston-celtics,Enes Kanter,4.767.000 $
+29,boston-celtics,Jabari Bird,1.663.861 $
+30,boston-celtics,Semi Ojeleye,1.618.520 $
+31,boston-celtics,Romeo Langford,3.458.400 $
+32,boston-celtics,Grant Williams,2.379.840 $
+33,boston-celtics,Carsen Edwards,898.310 $
+34,boston-celtics,Javonte Green,898.310 $
+35,boston-celtics,Tremont Waters,Ambivalente
+36,brooklyn-nets,Taurean Prince,3.481.986 $
+37,brooklyn-nets,Garrett Temple,4.878.049 $
+38,brooklyn-nets,Kevin Durant,38.199.000 $
+39,brooklyn-nets,Wilson Chandler,1.620.564 $
+40,brooklyn-nets,Kyrie Irving,32.742.000 $
+41,brooklyn-nets,DeAndre Jordan,9.302.326 $
+42,brooklyn-nets,Joe Harris,7.667.000 $
+43,brooklyn-nets,Dzanan Musa,1.911.600 $
+44,brooklyn-nets,Jarrett Allen,2.376.840 $
+45,brooklyn-nets,Theo Pinson,1.445.697 $
+46,brooklyn-nets,Caris LeVert,2.625.718 $
+47,brooklyn-nets,Spencer Dinwiddie,10.605.600 $
+48,brooklyn-nets,Nicolas Claxton,898.310 $
+49,brooklyn-nets,Rodions Kurucs,1.699.236 $
+50,brooklyn-nets,David Nwaba,1.678.854 $
+51,brooklyn-nets,Deng Adel,1.445.697 $
+52,brooklyn-nets,Henry Ellenson,Ambivalente
+53,charlotte-hornets,Bismack Biyombo,17.000.000 $
+54,charlotte-hornets,Nicolas Batum,25.565.217 $
+55,charlotte-hornets,Marvin Williams,15.006.250 $
+56,charlotte-hornets,Michael Kidd-Gilchrist,13.000.000 $
+57,charlotte-hornets,Cody Zeller,14.471.910 $
+58,charlotte-hornets,Terry Rozier,20.253.968 $
+59,charlotte-hornets,PJ Washington,3.831.840 $
+60,charlotte-hornets,Malik Monk,4.028.400 $
+61,charlotte-hornets,Cody Martin,898.310 $
+62,charlotte-hornets,Miles Bridges,3.755.400 $
+63,charlotte-hornets,Devonte' Graham,1.416.852 $
+64,charlotte-hornets,Willy Hernangomez,1.557.250 $
+65,charlotte-hornets,Dwayne Bacon,1.618.520 $
+66,charlotte-hornets,Caleb Martin,898.310 $
+67,charlotte-hornets,Josh Perkins,838.464 $
+68,charlotte-hornets,Joe Chealey,1.445.697 $
+69,charlotte-hornets,Thomas Welsh,1.445.697 $
+70,charlotte-hornets,Robert Franks,Ambivalente
+71,chicago-bulls,Thaddeus Young,13.015.873 $
+72,chicago-bulls,Timothe Luwawu-Cabarrot,2.529.684 $
+73,chicago-bulls,Cristiano Felicio,8.156.500 $
+74,chicago-bulls,Otto Porter Jr,27.250.575 $
+75,chicago-bulls,Kris Dunn,5.348.007 $
+76,chicago-bulls,Lauri Markkanen,5.300.400 $
+77,chicago-bulls,Wendell Carter Jr,5.201.400 $
+78,chicago-bulls,Zach LaVine,19.046.512 $
+79,chicago-bulls,Tomas Satoransky,10.000.000 $
+80,chicago-bulls,Denzel Valentine,3.377.569 $
+81,chicago-bulls,Chandler Hutchison,2.332.320 $
+82,chicago-bulls,Daniel Gafford,898.310 $
+83,chicago-bulls,Ryan Arcidiacono,3.000.000 $
+84,chicago-bulls,Antonio Blakeney,1.588.231 $
+85,chicago-bulls,Shaq Harrison,1.620.564 $
+86,chicago-bulls,Luke Kornet,2.250.000 $
+87,chicago-bulls,Rawle Alkins,Agente Libre
+88,chicago-bulls,Adam Mokoka,Ambivalente
+89,cleveland-cavaliers,Darius Garland,6.400.920 $
+90,cleveland-cavaliers,Kevin Love,28.942.830 $
+91,cleveland-cavaliers,John Henson,10.482.396 $
+92,cleveland-cavaliers,Tristan Thompson,18.539.130 $
+93,cleveland-cavaliers,Kevin Porter Jr,1.290.960 $
+94,cleveland-cavaliers,Jordan Clarkson,13.437.500 $
+95,cleveland-cavaliers,Brandon Knight,15.643.750 $
+96,cleveland-cavaliers,Cedi Osman,2.907.143 $
+97,cleveland-cavaliers,Collin Sexton,4.764.960 $
+98,cleveland-cavaliers,Ante Zizic,2.281.800 $
+99,cleveland-cavaliers,Larry Nance Jr,12.727.273 $
+100,cleveland-cavaliers,Dylan Windler,2.035.800 $
+101,cleveland-cavaliers,Matthew Dellavedova,9.607.500 $
+102,cleveland-cavaliers,JP Macura,1.445.697 $
+103,cleveland-cavaliers,Marques Bolden,898.310 $
+104,cleveland-cavaliers,Sindarius Thornwell,1.620.564 $
+105,cleveland-cavaliers,Levi Randolph,898.310 $
+106,cleveland-cavaliers,Malik Newman,898.310 $
+107,dallas-mavericks,Justin Jackson,3.280.920 $
+108,dallas-mavericks,Tim Hardaway Jr,18.150.000 $
+109,dallas-mavericks,Dwight Powell,10.259.375 $
+110,dallas-mavericks,Seth Curry,7.441.860 $
+111,dallas-mavericks,Luka Doncic,7.683.360 $
+112,dallas-mavericks,JJ Barea,1.620.564 $
+113,dallas-mavericks,Kristaps Porzingis,27.285.000 $
+114,dallas-mavericks,Courtney Lee,12.759.670 $
+115,dallas-mavericks,Maxi Kleber,7.812.500 $
+116,dallas-mavericks,Boban Marjanovic,3.500.000 $
+117,dallas-mavericks,Ryan Broekhoff,1.416.852 $
+118,dallas-mavericks,Dorian Finney-Smith,3.703.704 $
+119,dallas-mavericks,Delon Wright,9.473.684 $
+120,dallas-mavericks,Jalen Brunson,1.416.852 $
+121,dallas-mavericks,Dakota Mathias,898.310 $
+122,dallas-mavericks,Isaiah Roby,1.500.000 $
+123,dallas-mavericks,Aric Holman,898.310 $
+124,dallas-mavericks,Antonius Cleveland,Ambivalente
+125,denver-nuggets,Paul Millsap,30.500.000 $
+126,denver-nuggets,Mason Plumlee,14.041.096 $
+127,denver-nuggets,Jerami Grant,9.000.000 $
+128,denver-nuggets,Michael Porter Jr,3.389.400 $
+129,denver-nuggets,Torrey Craig,2.000.000 $
+130,denver-nuggets,Nikola Jokic,26.573.595 $
+131,denver-nuggets,Will Barton,13.017.857 $
+132,denver-nuggets,Jamal Murray,4.444.746 $
+133,denver-nuggets,Gary Harris,17.839.286 $
+134,denver-nuggets,Vlatko Cancar,898.310 $
+135,denver-nuggets,Juan Hernangomez,3.321.030 $
+136,denver-nuggets,Malik Beasley,2.731.714 $
+137,denver-nuggets,PJ Dozier,1.620.564 $
+138,denver-nuggets,Monte Morris,1.588.231 $
+139,denver-nuggets,Jarred Vanderbilt,1.416.852 $
+140,denver-nuggets,Tyler Cook,Ambivalente
+141,denver-nuggets,Brandon Goodwin,AL Restringido
+142,detroit-pistons,Blake Griffin,34.234.964 $
+143,detroit-pistons,Andre Drummond,27.093.019 $
+144,detroit-pistons,Reggie Jackson,18.086.957 $
+145,detroit-pistons,Tony Snell,11.392.857 $
+146,detroit-pistons,Langston Galloway,7.333.333 $
+147,detroit-pistons,Tim Frazier,1.620.564 $
+148,detroit-pistons,Derrick Rose,7.317.073 $
+149,detroit-pistons,Thon Maker,3.569.643 $
+150,detroit-pistons,Markieff Morris,3.623.000 $
+151,detroit-pistons,Luke Kennard,3.827.160 $
+152,detroit-pistons,Sviatoslav Mykhailiuk,1.416.852 $
+153,detroit-pistons,Sekou Doumbouya,3.285.120 $
+154,detroit-pistons,Christian Wood,1.645.357 $
+155,detroit-pistons,Khyri Thomas,1.416.852 $
+156,detroit-pistons,Bruce Brown Jr,1.416.852 $
+157,detroit-pistons,Donta Hall,898.310 $
+158,detroit-pistons,Todd Withers,898.310 $
+159,detroit-pistons,Michael Beasley,1.620.564 $
+160,golden-state-warriors,Stephen Curry,40.231.758 $
+161,golden-state-warriors,D'Angelo Russell,27.285.000 $
+162,golden-state-warriors,Klay Thompson,32.742.000 $
+163,golden-state-warriors,Draymond Green,18.539.130 $
+164,golden-state-warriors,Alen Smailagic,898.310 $
+165,golden-state-warriors,Jordan Poole,1.964.760 $
+166,golden-state-warriors,Alec Burks,1.620.564 $
+167,golden-state-warriors,Willie Cauley-Stein,2.200.000 $
+168,golden-state-warriors,Alfonzo McKinnie,1.588.231 $
+169,golden-state-warriors,Eric Paschall,898.310 $
+170,golden-state-warriors,Kevon Looney,4.629.630 $
+171,golden-state-warriors,Omari Spellman,1.897.800 $
+172,golden-state-warriors,Ky Bowman,898.310 $
+173,golden-state-warriors,Glenn Robinson III,1.882.867 $
+174,golden-state-warriors,Jacob Evans,1.925.880 $
+175,golden-state-warriors,Andrew Harrison,1.620.564 $
+176,golden-state-warriors,Devyn Marble,1.620.564 $
+177,golden-state-warriors,Damion Lee,Ambivalente
+178,houston-rockets,James Harden,38.150.000 $
+179,houston-rockets,Russell Westbrook,38.506.482 $
+180,houston-rockets,Iman Shumpert,Agente Libre
+181,houston-rockets,Eric Gordon,14.057.730 $
+182,houston-rockets,PJ Tucker,8.349.039 $
+183,houston-rockets,Gerald Green,2.000.000 $
+184,houston-rockets,Tyson Chandler,1.620.564 $
+185,houston-rockets,Austin Rivers,2.174.318 $
+186,houston-rockets,Clint Capela,16.758.621 $
+187,houston-rockets,Gary Clark,1.416.852 $
+188,houston-rockets,Isaiah Hartenstein,1.416.852 $
+189,houston-rockets,Ben McLemore,2.028.594 $
+190,houston-rockets,Michael Frazier,1.416.852 $
+191,houston-rockets,Danuel House,3.492.063 $
+192,houston-rockets,William McDowell-White,838.464 $
+193,houston-rockets,Anthony Bennett,1.620.564 $
+194,indiana-pacers,Victor Oladipo,21.000.000 $
+195,indiana-pacers,Malcolm Brogdon,19.767.442 $
+196,indiana-pacers,Jeremy Lamb,10.000.000 $
+197,indiana-pacers,Justin Holiday,4.767.000 $
+198,indiana-pacers,Edmond Sumner,1.620.564 $
+199,indiana-pacers,TJ Warren,10.810.000 $
+200,indiana-pacers,Doug McDermott,7.333.333 $
+201,indiana-pacers,Myles Turner,18.000.000 $
+202,indiana-pacers,Domantas Sabonis,3.529.555 $
+203,indiana-pacers,TJ Leaf,2.813.280 $
+204,indiana-pacers,Aaron Holiday,2.007.514 $
+205,indiana-pacers,TJ McConnell,3.500.000 $
+206,indiana-pacers,Alize Johnson,1.416.852 $
+207,indiana-pacers,Amida Brimah,898.310 $
+208,indiana-pacers,Goga Bitadze,2.816.760 $
+209,indiana-pacers,JaKeenan Gant,898.310 $
+210,indiana-pacers,JaKarr Sampson,1.620.564 $
+211,indiana-pacers,Brian Bowen,Ambivalente
+212,los-angeles-clippers,Kawhi Leonard,32.742.000 $
+213,los-angeles-clippers,Paul George,32.852.753 $
+214,los-angeles-clippers,Rodney McGruder,5.000.000 $
+215,los-angeles-clippers,Maurice Harkless,11.511.236 $
+216,los-angeles-clippers,Montrezl Harrell,6.000.000 $
+217,los-angeles-clippers,Landry Shamet,1.995.120 $
+218,los-angeles-clippers,Lou Williams,8.000.000 $
+219,los-angeles-clippers,Ivica Zubac,7.000.000 $
+220,los-angeles-clippers,JaMychal Green,5.000.000 $
+221,los-angeles-clippers,Patrick Beverley,12.345.679 $
+222,los-angeles-clippers,Jerome Robinson,3.567.720 $
+223,los-angeles-clippers,Mfioundu Kabengele,1.977.000 $
+224,los-angeles-clippers,Terance Mann,898.310 $
+225,los-angeles-clippers,James Palmer,898.310 $
+226,los-angeles-clippers,Derrick Walton Jr,1.445.697 $
+227,los-angeles-clippers,Patrick Patterson,2.331.593 $
+228,los-angeles-clippers,Terry Larrier,898.310 $
+229,los-angeles-clippers,Donte Grantham,1.445.697 $
+230,los Angeles-lakers,LeBron James,37.436.858 $
+231,los Angeles-lakers,Kentavious Caldwell-Pope,8.000.000 $
+232,los Angeles-lakers,Troy Daniels,1.620.564 $
+233,los Angeles-lakers,Jared Dudley,1.620.564 $
+234,los Angeles-lakers,Anthony Davis,27.093.019 $
+235,los Angeles-lakers,JaVale McGee,4.100.000 $
+236,los Angeles-lakers,Devontae Cacok,838.464 $
+237,los Angeles-lakers,Danny Green,15.000.000 $
+238,los Angeles-lakers,Rajon Rondo,2.564.753 $
+239,los Angeles-lakers,Kyle Kuzma,1.974.600 $
+240,los Angeles-lakers,Quinn Cook,3.000.000 $
+241,los Angeles-lakers,DeMarcus Cousins,3.500.000 $
+242,los Angeles-lakers,Jordan Caroline,838.464 $
+243,los Angeles-lakers,Alex Caruso,2.250.000 $
+244,los Angeles-lakers,Avery Bradley,4.767.000 $
+245,los Angeles-lakers,Talen Horton-Tucker,898.310 $
+246,los Angeles-lakers,Dwight Howard,1.620.564 $
+247,los Angeles-lakers,Demetrius Jackson,1.620.564 $
+248,memphis-grizzlies,Jae Crowder,7.815.533 $
+249,memphis-grizzlies,Miles Plumlee,12.500.000 $
+250,memphis-grizzlies,Jonas Valanciunas,16.111.111 $
+251,memphis-grizzlies,De'Anthony Melton,1.416.852 $
+252,memphis-grizzlies,Marko Guduric,2.625.000 $
+253,memphis-grizzlies,Jaren Jackson Jr,6.927.480 $
+254,memphis-grizzlies,Kyle Anderson,9.073.050 $
+255,memphis-grizzlies,Grayson Allen,2.429.400 $
+256,memphis-grizzlies,Ja Morant,8.730.240 $
+257,memphis-grizzlies,Solomon Hill,13.248.243 $
+258,memphis-grizzlies,Andre Iguodala,17.185.185 $
+259,memphis-grizzlies,Ivan Rabb,1.618.520 $
+260,memphis-grizzlies,Dillon Brooks,1.618.520 $
+261,memphis-grizzlies,Brandon Clarke,2.478.840 $
+262,memphis-grizzlies,Bruno Caboclo,1.845.301 $
+263,memphis-grizzlies,Josh Jackson,7.059.480 $
+264,memphis-grizzlies,Tyus Jones,9.250.000 $
+265,memphis-grizzlies,John Konchar,Ambivalente
+266,miami-heat,Jimmy Butler,32.742.000 $
+267,miami-heat,Goran Dragic,19.217.900 $
+268,miami-heat,James Johnson,15.349.400 $
+269,miami-heat,Dion Waiters,12.100.000 $
+270,miami-heat,Kelly Olynyk,11.667.886 $
+271,miami-heat,Kendrick Nunn,1.416.852 $
+272,miami-heat,Udonis Haslem,1.620.564 $
+273,miami-heat,Justise Winslow,13.000.000 $
+274,miami-heat,Bam Adebayo,3.454.080 $
+275,miami-heat,Meyers Leonard,11.286.517 $
+276,miami-heat,Derrick Jones Jr,1.645.357 $
+277,miami-heat,KZ Okpala,898.310 $
+278,miami-heat,Duncan Robinson,1.416.852 $
+279,miami-heat,Tyler Herro,3.640.200 $
+280,miami-heat,Jeremiah Martin,898.310 $
+281,miami-heat,Kyle Alexander,898.310 $
+282,milwaukee-bucks,Giannis Antetokounmpo,25.842.697 $
+283,milwaukee-bucks,Eric Bledsoe,15.625.000 $
+284,milwaukee-bucks,Khris Middleton,30.689.655 $
+285,milwaukee-bucks,Rayjon Tucker,898.310 $
+286,milwaukee-bucks,Thanasis Antetokounmpo,1.445.697 $
+287,milwaukee-bucks,Donte DiVincenzo,2.905.800 $
+288,milwaukee-bucks,Wesley Matthews,1.620.564 $
+289,milwaukee-bucks,George Hill,9.206.349 $
+290,milwaukee-bucks,DJ Wilson,2.961.120 $
+291,milwaukee-bucks,Pat Connaughton,1.723.050 $
+292,milwaukee-bucks,Ersan Ilyasova,7.000.000 $
+293,milwaukee-bucks,Robin Lopez,4.767.000 $
+294,milwaukee-bucks,Sterling Brown,1.618.520 $
+295,milwaukee-bucks,Brook Lopez,12.093.023 $
+296,milwaukee-bucks,Kyle Korver,1.620.564 $
+297,milwaukee-bucks,Luke Maye,898.310 $
+298,milwaukee-bucks,Dragan Bender,1.678.854 $
+299,milwaukee-bucks,Jaylen Adams,1.445.697 $
+300,minnesota-timberwolves,Robert Covington,11.301.219 $
+301,minnesota-timberwolves,Jeff Teague,19.000.000 $
+302,minnesota-timberwolves,Gorgui Dieng,16.229.213 $
+303,minnesota-timberwolves,Noah Vonleh,2.000.000 $
+304,minnesota-timberwolves,Andrew Wiggins,27.270.000 $
+305,minnesota-timberwolves,Keita Bates-Diop,1.416.852 $
+306,minnesota-timberwolves,Karl-Anthony Towns,27.250.000 $
+307,minnesota-timberwolves,Josh Okogie,2.530.680 $
+308,minnesota-timberwolves,Treveon Graham,1.645.357 $
+309,minnesota-timberwolves,Jake Layman,3.650.794 $
+310,minnesota-timberwolves,Shabazz Napier,1.845.301 $
+311,minnesota-timberwolves,Tyrone Wallace,1.588.231 $
+312,minnesota-timberwolves,Jarrett Culver,5.813.640 $
+313,minnesota-timberwolves,Naz Reid,1.400.000 $
+314,minnesota-timberwolves,Jaylen Nowell,1.400.000 $
+315,minnesota-timberwolves,Tyus Battle,898.310 $
+316,minnesota-timberwolves,Jordan McLaughlin,Ambivalente
+317,minnesota-timberwolves,Kelan Martin,Ambivalente
+318,new-orleans-pelicans,Jrue Holiday,26.866.111 $
+319,new-orleans-pelicans,Lonzo Ball,8.719.320 $
+320,new-orleans-pelicans,JJ Redick,12.926.829 $
+321,new-orleans-pelicans,Zion Williamson,9.757.440 $
+322,new-orleans-pelicans,Nicolo Melli,3.902.439 $
+323,new-orleans-pelicans,E'Twaun Moore,8.664.928 $
+324,new-orleans-pelicans,Jaxson Hayes,4.862.040 $
+325,new-orleans-pelicans,Josh Hart,1.934.160 $
+326,new-orleans-pelicans,Derrick Favors,16.000.000 $
+327,new-orleans-pelicans,Brandon Ingram,7.265.485 $
+328,new-orleans-pelicans,Darius Miller,7.125.000 $
+329,new-orleans-pelicans,Frank Jackson,1.618.520 $
+330,new-orleans-pelicans,Jahlil Okafor,1.702.486 $
+331,new-orleans-pelicans,Jalen Adams,838.464 $
+332,new-orleans-pelicans,Kenrich Williams,1.416.852 $
+333,new-orleans-pelicans,Javon Bess,898.310 $
+334,new-orleans-pelicans,Nickeil Alexander-Walker,2.964.840 $
+335,new-orleans-pelicans,Aubrey Dawkins,898.310 $
+336,new-york-knicks,Julius Randle,20.000.000 $
+337,new-york-knicks,Taj Gibson,9.756.098 $
+338,new-york-knicks,Marcus Morris,15.000.000 $
+339,new-york-knicks,Dennis Smith Jr,4.463.640 $
+340,new-york-knicks,VJ King,838.464 $
+341,new-york-knicks,Bobby Portis,15.500.000 $
+342,new-york-knicks,Allonzo Trier,3.551.100 $
+343,new-york-knicks,Kevin Knox,4.380.120 $
+344,new-york-knicks,Frank Ntilikina,4.855.800 $
+345,new-york-knicks,Reggie Bullock,2.028.594 $
+346,new-york-knicks,Mitchell Robinson,1.600.000 $
+347,new-york-knicks,Wayne Ellington,7.804.878 $
+348,new-york-knicks,Elfrid Payton,8.000.000 $
+349,new-york-knicks,RJ Barrett,7.839.960 $
+350,new-york-knicks,Ignas Brazdeikis,898.310 $
+351,new-york-knicks,Amir Hinton,838.464 $
+352,new-york-knicks,Damyean Dotson,1.618.520 $
+353,new-york-knicks,Kenny Wooten,898.310 $
+354,oklahoma-city-thunder,Chris Paul,38.328.211 $
+355,oklahoma-city-thunder,Dennis Schröder,15.500.000 $
+356,oklahoma-city-thunder,Steven Adams,25.842.697 $
+357,oklahoma-city-thunder,Danilo Gallinari,22.615.559 $
+358,oklahoma-city-thunder,Andre Roberson,10.740.740 $
+359,oklahoma-city-thunder,Abdel Nader,1.618.520 $
+360,oklahoma-city-thunder,Darius Bazley,2.284.800 $
+361,oklahoma-city-thunder,Hamidou Diallo,1.416.852 $
+362,oklahoma-city-thunder,Terrance Ferguson,2.475.840 $
+363,oklahoma-city-thunder,Nerlens Noel,1.620.564 $
+364,oklahoma-city-thunder,Shai Gilgeous-Alexander,3.952.920 $
+365,oklahoma-city-thunder,Mike Muscala,1.620.564 $
+366,oklahoma-city-thunder,Deonte Burton,1.416.852 $
+367,oklahoma-city-thunder,Justin Patton,1.620.564 $
+368,oklahoma-city-thunder,Eric Moreland,1.620.564 $
+369,oklahoma-city-thunder,Luguentz Dort,Ambivalente
+370,orlando-magic,Wesley Iwundu,1.618.520 $
+371,orlando-magic,Evan Fournier,17.000.000 $
+372,orlando-magic,Nikola Vucevic,22.321.429 $
+373,orlando-magic,Terrence Ross,12.500.000 $
+374,orlando-magic,DJ Augustin,7.250.000 $
+375,orlando-magic,Markelle Fultz,9.745.200 $
+376,orlando-magic,Al-Farouq Aminu,9.258.000 $
+377,orlando-magic,Aaron Gordon,20.250.000 $
+378,orlando-magic,Jonathan Isaac,5.806.440 $
+379,orlando-magic,Isaac Humphries,1.445.697 $
+380,orlando-magic,Michael Carter-Williams,1.620.564 $
+381,orlando-magic,Mohamed Bamba,5.697.600 $
+382,orlando-magic,Melvin Frazier Jr,1.416.852 $
+383,orlando-magic,Khem Birch,3.000.000 $
+384,orlando-magic,Vic Law,898.310 $
+385,orlando-magic,DaQuan Jeffries,898.310 $
+386,orlando-magic,Hassani Gravett,898.310 $
+387,orlando-magic,Josh Magette,Ambivalente
+388,philadelphia-76ers,Al Horford,22.558.140 $
+389,philadelphia-76ers,Josh Richardson,10.125.000 $
+390,philadelphia-76ers,Tobias Harris,31.034.483 $
+391,philadelphia-76ers,Kyle O'Quinn,1.620.564 $
+392,philadelphia-76ers,James Ennis III,1.882.867 $
+393,philadelphia-76ers,Ben Simmons,8.113.930 $
+394,philadelphia-76ers,Joel Embiid,27.504.630 $
+395,philadelphia-76ers,Shake Milton,1.445.697 $
+396,philadelphia-76ers,Raul Neto,1.620.564 $
+397,philadelphia-76ers,Jonah Bolden,1.416.852 $
+398,philadelphia-76ers,Matisse Thybulle,2.582.160 $
+399,philadelphia-76ers,Zhaire Smith,3.058.800 $
+400,philadelphia-76ers,Mike Scott,4.780.488 $
+401,philadelphia-76ers,Christ Koumadje,898.310 $
+402,philadelphia-76ers,Furkan Korkmaz,1.620.564 $
+403,philadelphia-76ers,Trey Burke,1.620.564 $
+404,philadelphia-76ers,Isaiah Miles,898.310 $
+405,philadelphia-76ers,Marial Shayok,Ambivalente
+406,phoenix-suns,Tyler Johnson,19.631.975 $
+407,phoenix-suns,Elie Okobo,1.416.852 $
+408,phoenix-suns,Aron Baynes,5.453.280 $
+409,phoenix-suns,Dario Saric,3.481.986 $
+410,phoenix-suns,Cameron Johnson,4.033.440 $
+411,phoenix-suns,Ty Jerome,2.193.480 $
+412,phoenix-suns,Deandre Ayton,9.481.320 $
+413,phoenix-suns,Kelly Oubre Jr,15.000.000 $
+414,phoenix-suns,Frank Kaminsky,5.000.000 $
+415,phoenix-suns,Ricky Rubio,16.190.476 $
+416,phoenix-suns,Jevon Carter,1.416.852 $
+417,phoenix-suns,Devin Booker,27.250.000 $
+418,phoenix-suns,Mikal Bridges,4.161.000 $
+419,phoenix-suns,Jalen Lecque,898.310 $
+420,phoenix-suns,Cheick Diallo,1.678.854 $
+421,phoenix-suns,Tariq Owens,898.310 $
+422,phoenix-suns,David Kramer,898.310 $
+423,phoenix-suns,Jared Harper,Ambivalente
+424,portland-trail-blazers,Damian Lillard,29.802.321 $
+425,portland-trail-blazers,CJ McCollum,27.556.959 $
+426,portland-trail-blazers,Kent Bazemore,19.269.662 $
+427,portland-trail-blazers,Gary Trent Jr,1.416.852 $
+428,portland-trail-blazers,Hassan Whiteside,27.093.019 $
+429,portland-trail-blazers,Nassir Little,2.105.520 $
+430,portland-trail-blazers,Rodney Hood,7.804.878 $
+431,portland-trail-blazers,Zach Collins,4.240.200 $
+432,portland-trail-blazers,Jusuf Nurkic,12.000.000 $
+433,portland-trail-blazers,Anfernee Simons,2.149.560 $
+434,portland-trail-blazers,Mario Hezonja,1.737.145 $
+435,portland-trail-blazers,Skal Labissiere,2.338.847 $
+436,portland-trail-blazers,Anthony Tolliver,1.620.564 $
+437,portland-trail-blazers,Pau Gasol,1.620.564 $
+438,portland-trail-blazers,Jaylen Hoard,Ambivalente
+439,sacramento-kings,Harrison Barnes,18.973.214 $
+440,sacramento-kings,Trevor Ariza,12.195.122 $
+441,sacramento-kings,Bogdan Bogdanovic,8.529.386 $
+442,sacramento-kings,Cory Joseph,11.746.032 $
+443,sacramento-kings,Marvin Bagley III,8.556.120 $
+444,sacramento-kings,Justin James,898.310 $
+445,sacramento-kings,De'Aaron Fox,6.392.760 $
+446,sacramento-kings,Dewayne Dedmon,12.698.413 $
+447,sacramento-kings,Buddy Hield,4.861.208 $
+448,sacramento-kings,Nemanja Bjelica,6.825.000 $
+449,sacramento-kings,Yogi Ferrell,3.150.000 $
+450,sacramento-kings,Harry Giles,2.578.800 $
+451,sacramento-kings,Caleb Swanigan,2.033.160 $
+452,sacramento-kings,Richaun Holmes,4.767.000 $
+453,sacramento-kings,Tyler Lydon,1.620.564 $
+454,sacramento-kings,Isaiah Pineiro,898.310 $
+455,sacramento-kings,Eric Mika,898.310 $
+456,sacramento-kings,Wenyen Gabriel,Ambivalente
+457,san-antonio-spurs,LaMarcus Aldridge,26.000.000 $
+458,san-antonio-spurs,DeMar DeRozan,27.739.975 $
+459,san-antonio-spurs,Chimezie Metu,1.416.852 $
+460,san-antonio-spurs,Luka Samanic,2.689.920 $
+461,san-antonio-spurs,Patty Mills,13.285.714 $
+462,san-antonio-spurs,Jakob Poeltl,3.754.886 $
+463,san-antonio-spurs,Rudy Gay,16.000.000 $
+464,san-antonio-spurs,DeMarre Carroll,7.000.000 $
+465,san-antonio-spurs,Lonnie Walker IV,2.760.480 $
+466,san-antonio-spurs,Marco Belinelli,6.000.000 $
+467,san-antonio-spurs,Derrick White,1.948.080 $
+468,san-antonio-spurs,Trey Lyles,5.500.000 $
+469,san-antonio-spurs,Bryn Forbes,2.875.000 $
+470,san-antonio-spurs,Dejounte Murray,1.676.735 $
+471,san-antonio-spurs,Keldon Johnson,1.950.600 $
+472,san-antonio-spurs,Dedric Lawson,898.310 $
+473,san-antonio-spurs,Daulton Hommes,898.310 $
+474,san-antonio-spurs,Drew Eubanks,Ambivalente
+475,toronto-raptors,Kyle Lowry,33.296.296 $
+476,toronto-raptors,Stanley Johnson,3.623.000 $
+477,toronto-raptors,Serge Ibaka,23.271.605 $
+478,toronto-raptors,Marc Gasol,25.595.700 $
+479,toronto-raptors,Fred VanVleet,9.279.900 $
+480,toronto-raptors,Norman Powell,10.116.576 $
+481,toronto-raptors,Rondae Hollis-Jefferson,1.620.564 $
+482,toronto-raptors,OG Anunoby,2.281.800 $
+483,toronto-raptors,Pascal Siakam,2.351.839 $
+484,toronto-raptors,Patrick McCaw,4.000.000 $
+485,toronto-raptors,Malcolm Miller,1.588.231 $
+486,toronto-raptors,Chris Boucher,1.588.231 $
+487,toronto-raptors,Matt Thomas,898.310 $
+488,toronto-raptors,Dewan Hernandez,898.310 $
+489,toronto-raptors,Devin Robinson,1.620.564 $
+490,toronto-raptors,Terence Davis,898.310 $
+491,toronto-raptors,Cameron Payne,1.737.145 $
+492,toronto-raptors,OShae Brissett,898.310 $
+493,utah-jazz,Rudy Gobert,25.008.427 $
+494,utah-jazz,Bojan Bogdanovic,16.976.744 $
+495,utah-jazz,Joe Ingles,11.954.546 $
+496,utah-jazz,Emmanuel Mudiay,1.620.564 $
+497,utah-jazz,Royce O'Neale,1.618.520 $
+498,utah-jazz,Mike Conley,32.511.623 $
+499,utah-jazz,Ed Davis,5.000.000 $
+500,utah-jazz,Dante Exum,11.000.000 $
+501,utah-jazz,Georges Niang,1.645.357 $
+502,utah-jazz,Jeff Green,1.620.564 $
+503,utah-jazz,Donovan Mitchell,3.635.760 $
+504,utah-jazz,Tony Bradley,1.962.360 $
+505,utah-jazz,Nigel Williams-Goss,898.310 $
+506,utah-jazz,Stanton Kidd,898.310 $
+507,utah-jazz,William Howard,898.310 $
+508,utah-jazz,Miye Oni,898.310 $
+509,utah-jazz,Juwan Morgan,898.310 $
+510,utah-jazz,Trevon Bluiett,898.310 $
+511,washington-wizards,John Wall,38.150.000 $
+512,washington-wizards,Bradley Beal,27.093.019 $
+513,washington-wizards,Admiral Schofield,898.310 $
+514,washington-wizards,Ian Mahinmi,15.450.051 $
+515,washington-wizards,Ish Smith,5.853.659 $
+516,washington-wizards,Isaiah Thomas,1.620.564 $
+517,washington-wizards,Moritz Wagner,AL Restringido
+518,washington-wizards,Troy Brown,3.219.480 $
+519,washington-wizards,Rui Hachimura,4.469.160 $
+520,washington-wizards,Isaac Bonga,1.416.852 $
+521,washington-wizards,Davis Bertans,7.250.000 $
+522,washington-wizards,Thomas Bryant,7.936.508 $
+523,washington-wizards,CJ Miles,8.730.159 $
+524,washington-wizards,Jemerrio Jones,1.416.852 $
+525,washington-wizards,Jordan McRae,1.645.357 $
+526,washington-wizards,Phil Booth,898.310 $
+527,washington-wizards,Justin Robinson,838.464 $
+528,washington-wizards,Garrison Mathews,Ambivalente
